@@ -1,4 +1,3 @@
-
 The main sketch is "__NeoPixel_RTC_Clock_Calendar__". The other folders contain supporting libraries.
 
 ### These are the versions of the libraries that existed at time of writing code (Sept 2013).      
