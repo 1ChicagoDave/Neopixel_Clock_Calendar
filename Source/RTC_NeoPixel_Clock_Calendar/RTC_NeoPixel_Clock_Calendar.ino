@@ -1,3 +1,21 @@
+//  Arduino RTC Clock & Perpetual Calendar
+//  Written by David R Ratliff
+//  September, 2013
+//  
+//  This sketch was written for use with - 
+//    ChronoDot RTC         -- But chipset, address, and memory registers are similar to other popular RTC chips, so they may work
+//                          -- Supports I2C & Serial. This code uses the I2C with the built-in Arduino Wire library.
+//    Arduino Pro Mini 328  -- Chosen for size
+//                          -- This is just a physically tiny and thin Arduino using the same chip as Arduino UNO.
+//    Adafruit LED Backpack -- Uses the 28-pin version of LED driver IC.
+//                          -- I'm not sure other versions/sizes of the HT16K33 chip have enough oututs to drive bi-color matrix
+//    5x7 LED Matrix        -- Bi-Color (Red/Green) matrix is used. This is for the calendar.
+//                          -- Code uses three colors - Red, Green, and mixed == Orange 
+//                          -- one color for weekdays, one color for weekends, third color to mark 'TODAY' on calendar
+//    NeoPixel Ring         -- When written, only the 16-pixel ring existed. It took some creative problem solving
+//                          --  to represent 12 hrs & 60 mins with 16 LEDs. It should be easy enough to change code
+//                          --  to work with whatever sized ring you decide to use.
+
 
 #include <Adafruit_NeoPixel.h>
 #include <Wire.h>
