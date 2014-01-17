@@ -11,7 +11,5 @@ _\* Though I would probably use the [12 pixel](http://www.adafruit.com/products/
 _\* Any 5x7 bicolor LED matrix should work. But, pinouts will likely be different; be sure to check datasheet!_     
  
 
-![ChronoDot](https://github.com/1ChicagoDave/Neopixel_Clock_Calendar/blob/master/Images/ChronoDotV2.1.jpg)  
-![Arduino Pro Mini 328](https://github.com/1ChicagoDave/Neopixel_Clock_Calendar/blob/master/Images/ArduinoProMini328.jpg) ![NeoPixel Ring](https://github.com/1ChicagoDave/Neopixel_Clock_Calendar/blob/master/Images/NeoPixelRing16.jpg)  
-![5x7 LED bicolor matrix](https://github.com/1ChicagoDave/Neopixel_Clock_Calendar/blob/master/Images/5x7LEDmatrix.jpg?raw=true)
+![ChronoDot](https://github.com/1ChicagoDave/Neopixel_Clock_Calendar/blob/master/Images/ChronoDotV2.1.jpg?raw=true)![Arduino Pro Mini 328](https://github.com/1ChicagoDave/Neopixel_Clock_Calendar/blob/master/Images/ArduinoProMini328.jpg?raw=true)![NeoPixel Ring](https://github.com/1ChicagoDave/Neopixel_Clock_Calendar/blob/master/Images/NeoPixelRing16.jpg?raw=true)![5x7 LED bicolor matrix](https://github.com/1ChicagoDave/Neopixel_Clock_Calendar/blob/master/Images/5x7LEDmatrix.jpg?raw=true)
 
