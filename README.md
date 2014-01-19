@@ -1,6 +1,9 @@
 Neopixel_Clock_Calendar
 =======================
 
+![rtcClockCal](https://github.com/1ChicagoDave/Neopixel_Clock_Calendar/blob/master/Images/ClockCal_A1_2x.png?raw=true "Colors, good....")      
+
+
 An RTC based clock and perpetual calendar using NeoPixel Ring for time display and a bi-color LED matrix as a perpetual month-view calendar. All hardware used is fully open-source. The calendar matrix is designed to provide user with a quick visual reference regarding day of week _(e.g. How many days left until weekend)_, week & month attributes _(e.g. This month ends on a Wendseday, It's currently the third week in  March, How many Sundays are in the current month)_, and other future implementations. Planned additions include the ability to have important dates blink; they might blink faster or brighter as the day approaches. Daily and one-time alarms, as well as scrolling reminders, are fully hardware supported and only require some additional code.  
 
 *****
